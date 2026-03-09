@@ -7,7 +7,7 @@ A Space Invaders-style game running entirely on the **Nothing Phone Glyph Matrix
 ## 📱 Compatible Devices
 
 - Nothing Phone 3
-- 
+  
 ## 🎮 How to Play
 
 The game is controlled by **tilting your phone**:
