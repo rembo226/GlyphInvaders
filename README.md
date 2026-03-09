@@ -1,6 +1,6 @@
 # 👾 Glyph Invaders
 
-A Space Invaders-style game running entirely on the **Nothing Phone Glyph Matrix** – no screen needed.
+A Space Invaders-style game running entirely on the **Nothing Phone Glyph Matrix**
 
 ---
 
