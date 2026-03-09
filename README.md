@@ -49,8 +49,8 @@ The game is controlled by **tilting your phone**:
 
 ## 🔍 Security Scans
 
-- [VirusTotal]([dein virustotal link)](https://www.virustotal.com/gui/file/1f2a04100fdf5848c592682f37aad0ad13ba9a1316ff55cc9159c650ecf140b5)
-- [Koodous]([dein koodous link](https://koodous.com/apks/1f2a04100fdf5848c592682f37aad0ad13ba9a1316ff55cc9159c650ecf140b5/general-information))
+- [VirusTotal] (https://www.virustotal.com/gui/file/1f2a04100fdf5848c592682f37aad0ad13ba9a1316ff55cc9159c650ecf140b5)
+- [Koodous] (https://koodous.com/apks/1f2a04100fdf5848c592682f37aad0ad13ba9a1316ff55cc9159c650ecf140b5/general-information)
 ---
 
 ## 📄 License
