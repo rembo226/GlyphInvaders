@@ -23,6 +23,12 @@ The game is controlled by **tilting your phone**:
 
 ---
 
+## 🎮 Gameplay Preview
+
+[▶️ Watch on YouTube](https://youtube.com/shorts/rgVc2FnbTJY?is=bO350u_IZveZ65Yq)
+
+---
+
 ## ⬇️ Installation
 
 1. Download the latest `app-release.apk` from the [Releases](../../releases) section
